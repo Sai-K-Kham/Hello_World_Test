@@ -1,0 +1,1 @@
+& C:/Users/saikh/AppData/Local/Programs/Python/Python313/python.exe "c:/Users/saikh/OneDrive/Documents/Python/assign7-2 E1 Sai_Kham.py"
