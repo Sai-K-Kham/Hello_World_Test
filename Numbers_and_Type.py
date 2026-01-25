@@ -10,3 +10,5 @@ def main():
     print(f"Seonds per hour is: {seconds_per_hour} Seconds per day is: {seconds_per_day} Division is {divided} Remainder is {remainder}")
 
 main()
+
+#git push second attemp
