@@ -1,0 +1,21 @@
+#Sai Khay Kham 
+#Binary Search
+
+class Solution:
+    def binarysearch( arr, k):
+        exist = False
+        for x in arr:  #searching through all index of arr
+            if x == k:  #if the number is found
+                indx = arr.index(x) #put index number in indx
+                exist = True
+                print(indx)
+        if exist == False:
+            print(f'{k} does not exist!')        
+        
+    
+
+if __name__ =="__main__":
+    arr = [1,2,3,4,5]
+    k  = 44
+    Solution.binarysearch( arr, k) #binary search from class solution.
+    
